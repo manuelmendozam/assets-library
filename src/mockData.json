@@ -1,0 +1,422 @@
+{
+  "assets": [
+    {
+      "id": 1,
+      "title": "INTES",
+      "longName": "Integrated Network Technology Evaluation System",
+      "type": "Layout",
+      "description": "Those options are already baked in with this model...",
+      "tags": ["comms", "coverage", "stakeholders"],
+      "used": 2485,
+      "pages": 6,
+      "lastUpdated": "07/23/2024",
+      "questions": [
+        "How can we improve the communication strategy?",
+        "What coverage areas need more attention?",
+        "How are stakeholders reacting to the new line?",
+        "Which markets require better distribution?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 2,
+      "title": "Market Insights",
+      "longName": "Comprehensive Market Insights Analysis",
+      "type": "Layout",
+      "description": "Gain insights into market trends and competitor activities...",
+      "tags": ["market", "insights", "trends"],
+      "used": 1980,
+      "pages": 3,
+      "lastUpdated": "09/12/2024",
+      "questions": [
+        "Which trends are emerging in the market?",
+        "How do our competitors perform in various regions?",
+        "What factors influence market demand?",
+        "What are the key risks in the current market environment?"
+      ],
+      "favorite": true,
+      "trending": false
+    },
+    {
+      "id": 3,
+      "title": "Project Timeline Overview",
+      "longName": "Detailed Project Timeline Overview",
+      "type": "Layout",
+      "description": "Keep track of project milestones and deadlines...",
+      "tags": ["timeline", "projects", "deadlines"],
+      "used": 1234,
+      "pages": 3,
+      "lastUpdated": "07/15/2024",
+      "questions": [
+        "What milestones are upcoming?",
+        "Which projects are at risk of delay?",
+        "How can we improve project timelines?",
+        "What are the major blockers in the current projects?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 4,
+      "title": "Product Launch Plan",
+      "longName": "Strategic Product Launch Planning",
+      "type": "Layout",
+      "description": "Plan the steps for a successful product launch...",
+      "tags": ["product", "launch", "planning"],
+      "used": 1120,
+      "pages": 5,
+      "lastUpdated": "09/30/2024",
+      "questions": [
+        "What are the critical launch milestones?",
+        "How do we ensure a successful launch?",
+        "What markets should we prioritize?",
+        "Which teams are responsible for key deliverables?"
+      ],
+      "favorite": false,
+      "trending": true
+    },
+    {
+      "id": 5,
+      "title": "User Experience Overview",
+      "longName": "User Experience and Feedback Overview",
+      "type": "Layout",
+      "description": "Review feedback and suggestions to improve user experience...",
+      "tags": ["ux", "user feedback", "improvements"],
+      "used": 1425,
+      "pages": 4,
+      "lastUpdated": "08/10/2024",
+      "questions": [
+        "What areas of the product need improvement?",
+        "How can we streamline the user journey?",
+        "Which features are most appreciated by users?",
+        "What feedback trends are emerging?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 6,
+      "title": "Brand Perception Analysis",
+      "longName": "Global Brand Perception and Sentiment Analysis",
+      "type": "Layout",
+      "description": "Understand how customers perceive our brand across markets...",
+      "tags": ["brand", "perception", "analysis"],
+      "used": 1678,
+      "pages": 6,
+      "lastUpdated": "09/05/2024",
+      "questions": [
+        "What is the overall brand sentiment?",
+        "Which markets have the most positive perception?",
+        "How can we address negative brand perceptions?",
+        "What messaging resonates with customers?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 7,
+      "title": "Competitive Analysis Report",
+      "longName": "In-depth Competitive Analysis Report",
+      "type": "Layout",
+      "description": "Compare performance with competitors in various regions...",
+      "tags": ["competition", "analysis", "benchmarking"],
+      "used": 1895,
+      "pages": 5,
+      "lastUpdated": "10/05/2024",
+      "questions": [
+        "Which competitors are gaining market share?",
+        "How does our product compare to competitors?",
+        "What strategies are competitors using?",
+        "Where can we gain a competitive edge?"
+      ],
+      "favorite": false,
+      "trending": true
+    },
+    {
+      "id": 8,
+      "title": "Sales Strategy Outline",
+      "longName": "Strategic Outline for Sales Growth",
+      "type": "Layout",
+      "description": "Detailed plan to boost sales and reach new markets...",
+      "tags": ["sales", "strategy", "growth"],
+      "used": 2010,
+      "pages": 7,
+      "lastUpdated": "08/22/2024",
+      "questions": [
+        "What sales channels are most effective?",
+        "Which regions have the most sales potential?",
+        "How can we improve our sales pitch?",
+        "What new markets should we enter?"
+      ],
+      "favorite": true,
+      "trending": false
+    },
+    {
+      "id": 9,
+      "title": "KPI Overview",
+      "longName": "Key Performance Indicators Overview",
+      "type": "KPI",
+      "description": "Track your key performance indicators in real-time...",
+      "tags": ["performance", "metrics", "tracking"],
+      "used": 3321,
+      "pages": 4,
+      "lastUpdated": "08/15/2024",
+      "questions": [
+        "Which KPIs are underperforming?",
+        "What is the current trend in key metrics?",
+        "How can we improve our tracking accuracy?",
+        "Which areas show the most growth?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 10,
+      "title": "Financial Summary",
+      "longName": "Comprehensive Financial Summary and Forecast",
+      "type": "KPI",
+      "description": "Summarize financial performance and projections...",
+      "tags": ["finance", "summary", "projections"],
+      "used": 2895,
+      "pages": 7,
+      "lastUpdated": "10/01/2024",
+      "questions": [
+        "How has our financial performance evolved?",
+        "What are the future revenue projections?",
+        "Which areas have the highest expenditures?",
+        "What measures can optimize our financial results?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 11,
+      "title": "Operational Efficiency Report",
+      "longName": "Operational Efficiency and Improvement Report",
+      "type": "KPI",
+      "description": "Assess operational efficiencies and identify areas for improvement...",
+      "tags": ["operations", "efficiency", "performance"],
+      "used": 1340,
+      "pages": 4,
+      "lastUpdated": "08/29/2024",
+      "questions": [
+        "Which processes are the most time-consuming?",
+        "How can we improve operational efficiency?",
+        "What are the key bottlenecks in our workflow?",
+        "Which departments have the highest productivity?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 12,
+      "title": "Customer Satisfaction Metrics",
+      "longName": "Customer Satisfaction and Experience Metrics",
+      "type": "KPI",
+      "description": "Monitor satisfaction levels to enhance customer experience...",
+      "tags": ["customer", "satisfaction", "metrics"],
+      "used": 980,
+      "pages": 3,
+      "lastUpdated": "07/30/2024",
+      "questions": [
+        "What is the average satisfaction score?",
+        "Which areas are customers happiest with?",
+        "How can we increase satisfaction ratings?",
+        "What negative feedback is most common?"
+      ],
+      "favorite": true,
+      "trending": false
+    },
+    {
+      "id": 13,
+      "title": "Employee Performance Metrics",
+      "longName": "Employee Performance and Evaluation Metrics",
+      "type": "KPI",
+      "description": "Evaluate performance of employees across different departments...",
+      "tags": ["employee", "performance", "evaluation"],
+      "used": 2100,
+      "pages": 5,
+      "lastUpdated": "09/15/2024",
+      "questions": [
+        "Which employees are excelling in their roles?",
+        "What areas need more training?",
+        "How do performance trends change over time?",
+        "What can improve team productivity?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 14,
+      "title": "Website Traffic Analysis",
+      "longName": "Comprehensive Website Traffic Analysis",
+      "type": "KPI",
+      "description": "Monitor traffic sources and visitor behavior...",
+      "tags": ["web", "traffic", "analysis"],
+      "used": 2750,
+      "pages": 6,
+      "lastUpdated": "10/12/2024",
+      "questions": [
+        "Which traffic sources are most effective?",
+        "How long do visitors stay on our site?",
+        "Which pages have the highest bounce rates?",
+        "How can we increase organic traffic?"
+      ],
+      "favorite": false,
+      "trending": true
+    },
+    {
+      "id": 15,
+      "title": "Sales Dashboard",
+      "longName": "Regional Sales Data Dashboard",
+      "type": "Storyboard",
+      "description": "Visualize sales data across different regions...",
+      "tags": ["sales", "dashboard", "analytics"],
+      "used": 1587,
+      "pages": 5,
+      "lastUpdated": "06/30/2024",
+      "questions": [
+        "What are the top-performing regions?",
+        "Which products have the highest sales volume?",
+        "How does seasonal variation impact sales?",
+        "What strategies can increase sales conversion rates?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 16,
+      "title": "Customer Feedback Analysis",
+      "longName": "Comprehensive Customer Feedback Analysis",
+      "type": "Storyboard",
+      "description": "Analyze feedback trends from customers to improve products...",
+      "tags": ["feedback", "customer", "analysis"],
+      "used": 945,
+      "pages": 8,
+      "lastUpdated": "09/05/2024",
+      "questions": [
+        "What are the common customer complaints?",
+        "Which products receive the highest praise?",
+        "How can we address negative feedback?",
+        "What trends are visible in customer suggestions?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 17,
+      "title": "User Acquisition Funnel",
+      "longName": "User Acquisition and Conversion Funnel Analysis",
+      "type": "Storyboard",
+      "description": "Understand how users move through the acquisition funnel...",
+      "tags": ["acquisition", "funnel", "user journey"],
+      "used": 1820,
+      "pages": 6,
+      "lastUpdated": "10/02/2024",
+      "questions": [
+        "Where do users drop off in the funnel?",
+        "Which channels bring the most users?",
+        "How can we optimize conversion rates?",
+        "What improvements can be made to onboarding?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 18,
+      "title": "Campaign Performance Overview",
+      "longName": "Detailed Campaign Performance Overview",
+      "type": "Storyboard",
+      "description": "Track the performance of marketing campaigns...",
+      "tags": ["campaign", "marketing", "performance"],
+      "used": 1400,
+      "pages": 5,
+      "lastUpdated": "09/25/2024",
+      "questions": [
+        "Which campaign had the best ROI?",
+        "What is the most effective marketing channel?",
+        "How can we improve future campaigns?",
+        "Which audience segments are most engaged?"
+      ],
+      "favorite": false,
+      "trending": true
+    },
+    {
+      "id": 19,
+      "title": "Product Feature Usage",
+      "longName": "Detailed Analysis of Product Feature Usage",
+      "type": "Storyboard",
+      "description": "Visualize how different features are being used by customers...",
+      "tags": ["product", "usage", "features"],
+      "used": 1200,
+      "pages": 7,
+      "lastUpdated": "08/12/2024",
+      "questions": [
+        "Which features are most popular?",
+        "How do usage patterns change over time?",
+        "What features are underutilized?",
+        "What improvements can be made to increase usage?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 20,
+      "title": "Customer Journey Map",
+      "longName": "Complete Customer Journey Mapping",
+      "type": "Storyboard",
+      "description": "Map out the customer journey from acquisition to retention...",
+      "tags": ["customer", "journey", "retention"],
+      "used": 1870,
+      "pages": 6,
+      "lastUpdated": "09/10/2024",
+      "questions": [
+        "Where are customers dropping off?",
+        "What touchpoints have the biggest impact?",
+        "How can we improve customer retention?",
+        "What steps can enhance the customer journey?"
+      ],
+      "favorite": true,
+      "trending": false
+    },
+    {
+      "id": 21,
+      "title": "Internal Communication Insights",
+      "longName": "Insights into Internal Communication Trends",
+      "type": "Storyboard",
+      "description": "Analyze communication trends within the organization...",
+      "tags": ["internal", "communication", "insights"],
+      "used": 850,
+      "pages": 5,
+      "lastUpdated": "08/29/2024",
+      "questions": [
+        "What communication methods are most effective?",
+        "How can we improve internal messaging?",
+        "What feedback are employees providing?",
+        "Which departments need better communication?"
+      ],
+      "favorite": false,
+      "trending": false
+    },
+    {
+      "id": 22,
+      "title": "Performance Review Summary",
+      "longName": "Comprehensive Performance Review Summary",
+      "type": "Storyboard",
+      "description": "Summarize performance reviews across teams...",
+      "tags": ["performance", "review", "summary"],
+      "used": 1150,
+      "pages": 4,
+      "lastUpdated": "09/20/2024",
+      "questions": [
+        "Which teams are meeting their goals?",
+        "How can we support underperforming areas?",
+        "What trends are emerging in performance feedback?",
+        "How can we improve the review process?"
+      ],
+      "favorite": false,
+      "trending": false
+    }
+  ]
+}
